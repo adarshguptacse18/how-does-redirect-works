@@ -1,0 +1,1 @@
+# how-does-redirect-works
